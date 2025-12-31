@@ -116,11 +116,6 @@ Automated deployment pipeline for AWS ECS with Infrastructure as Code.
 - 🤖 Building **AI-powered applications** with real-world impact
 - 🚀 Preparing for **Software Engineering Internship interviews**
 
-## 📈 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Khanrukku-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/yourusername)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Khanrukku-success?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/yourusername)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Khanrukku-green?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/yourusername)
 
 ## 🤝 Let's Connect!
 
@@ -128,7 +123,6 @@ I'm always open to interesting conversations, collaboration opportunities, and l
 
 - 💼 **LinkedIn:** [rukaiya-khan](https://www.linkedin.com/in/rukaiya-khan-a68767315/)
 - 📧 **Email:** khanrukaiya2810@gmail.com
-- 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername) *(optional)*
 - 💬 **Open to:** Internship opportunities, open-source collaborations, technical discussions
 
 ## 💡 Fun Facts
