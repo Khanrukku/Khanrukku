@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Master's in Computer Applications (MCA)** student at Amity University, passionate about building **scalable, efficient software solutions** that solve real-world problems. Currently seeking **Software Engineering Internship opportunities** for Summer 2025.
+I'm a **Master's in Computer Applications (MCA)** student at Jamia University, passionate about building **scalable, efficient software solutions** that solve real-world problems. Currently seeking **Software Engineering Internship opportunities** for Summer 2026.
 
 - 🎓 **Graduating:** May 2026 (MCA)
 - 💼 **Experience:** 1+ year in software development across multiple domains
