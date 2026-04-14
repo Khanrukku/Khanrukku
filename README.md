@@ -9,7 +9,7 @@
 
 I'm a **Master's in Computer Applications (MCA)** student at Jamia University, passionate about building **scalable, efficient software solutions** that solve real-world problems. Currently seeking **Software Engineering Internship opportunities** for Summer 2026.
 
-- 🎓 **Graduating:** May 2026 (MCA)
+- 🎓 **Graduating:** May 2027 (MCA)
 - 💼 **Experience:** 1+ year in software development across multiple domains
 - 🎯 **Focus Areas:** Distributed Systems, Cloud Computing, Data Structures & Algorithms, AI/ML
 - 🚀 **Current Projects:** Building production-grade applications in distributed computing and real-time collaboration
