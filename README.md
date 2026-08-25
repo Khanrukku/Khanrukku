@@ -240,13 +240,7 @@ Alongside this path, I'm exploring **AI/ML research and continual learning**.
 
 ---
 
-## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khanrukku&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khanrukku&layout=compact&hide_border=true)
-
----
 
 ## 🎓 Certifications & Technical Credentials
 
