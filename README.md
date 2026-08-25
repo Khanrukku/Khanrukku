@@ -17,13 +17,11 @@ Alongside software engineering, I'm also exploring **AI systems and continual le
 
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at Jamia Hamdard
 - 💻 Focused on **Backend Engineering, Distributed Systems & Cloud Computing**
-- 🧠 Strengthening **Data Structures & Algorithms, Computer Science Fundamentals & System Design**
 - ⚙️ Building backend systems with **Python, FastAPI, PostgreSQL, Redis & WebSockets**
 - ☁️ Working with **AWS, Docker, Terraform & GitHub Actions**
 - 🧪 Interested in **testing, reliability, concurrency, fault tolerance & performance engineering**
-- 🤖 Exploring **Machine Learning, Deep Learning & Continual Learning**
+- 🔬 Exploring **Machine Learning, Deep Learning & Continual Learning**
 - 🌱 Interested in **open-source software and collaborative engineering**
-- 🎯 Preparing for **Software Engineering internships and early-career opportunities**
 
 ---
 
