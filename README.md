@@ -248,6 +248,15 @@ Alongside this path, I'm exploring **AI/ML research and continual learning**.
 
 ---
 
+## 🎓 Certifications & Technical Credentials
+
+- **AWS** — Advanced Testing Practices using AWS DevOps Tools
+- **HackerRank** — 5★ Python · 5★ SQL
+- **Certified Agile Scrum Master (CASM)**
+- **freeCodeCamp** — Responsive Web Design
+
+
+
 ## 🤝 Let's Connect
 
 I'm interested in **Software Engineering opportunities, backend and distributed-systems engineering, open-source collaboration, hackathons, and technically challenging projects**.
