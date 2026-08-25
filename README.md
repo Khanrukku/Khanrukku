@@ -234,12 +234,14 @@ Active participant in developer-community events, technical sessions, and hackat
 
 ## 🤝 Let's Connect
 
-I'm interested in **Software Engineering opportunities, backend and distributed-systems engineering, open-source collaboration, hackathons, and technically challenging projects**.
+I'm open to **Software Engineering opportunities**, open-source collaboration, and building challenging systems with strong engineering fundamentals.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rukaiyakhan/)
 - 💻 [GitHub](https://github.com/Khanrukku)
-- 📧 [khanrukaiya2810@gmail.com](mailto:khanrukaiya2810@gmail.com)
+- 📧 [Email](mailto:khanrukaiya2810@gmail.com)
 
 ---
+
+> **Build. Break. Understand. Improve. Repeat.**
 
 > **Build. Break. Understand. Improve. Repeat.**
