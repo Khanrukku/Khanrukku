@@ -220,25 +220,6 @@ Active participant in developer-community events, technical sessions, and hackat
 
 ---
 
-## 📚 Currently Working On
-
-```text
-Data Structures & Algorithms
-        ↓
-Computer Science Fundamentals
-        ↓
-Backend Engineering
-        ↓
-Distributed Systems
-        ↓
-System Design
-        ↓
-Cloud-Native Engineering
-```
-
-Alongside this path, I'm exploring **AI/ML research and continual learning**.
-
----
 
 
 
