@@ -1,6 +1,6 @@
 # Hi, I'm Rukaiya Khan 👋
 
-### Software Engineer | Backend & Distributed Systems | Cloud | AI/ML
+### Software Engineer | Backend & Distributed Systems | Cloud Engineering
 
 I'm an **MCA student at Jamia Hamdard** with a strong interest in software engineering, backend systems, distributed computing, cloud technologies, and AI-powered applications.
 
